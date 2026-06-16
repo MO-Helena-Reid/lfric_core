@@ -57,9 +57,11 @@ __pycache__
 # LFRic CL Builds
 applications/**/bin
 applications/**/working
+applications/**/fab-workspace
 applications/**/test
 applications/**/documents
 applications/**/example*/
+applications/**/fab-workspace/
 mesh_tools/**/bin
 mesh_tools/**/working
 mesh_tools/**/test
@@ -71,3 +73,5 @@ infrastructure/**/bin
 infrastructure/**/working
 infrastructure/**/test
 infrastructure/**/documents
+science/**/bin
+science/**/working
